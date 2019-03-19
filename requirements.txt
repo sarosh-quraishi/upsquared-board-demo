@@ -1,4 +1,12 @@
-numpy
-tensorflow
+jupyter
+pyyaml
+requests
+networkx
+protobuf==3.6.1
+numpy==1.14.5
+setuptools==39.1.0
+tensorflow==1.10.0
 keras
 pillow
+plaidml-keras 
+plaidbench
