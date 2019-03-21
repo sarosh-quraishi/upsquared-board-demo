@@ -34,7 +34,7 @@ conda create -n py35 python=3.5
 
 plaidml-setup
 
-### Install ncssdk
+### Install ncssdk (if you have Movidius Myriad processor)
 '''
 git clone -b ncsdk2 http://github.com/Movidius/ncsdk && cd ncsdk && make install
 '''
