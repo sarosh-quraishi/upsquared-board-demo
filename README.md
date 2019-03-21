@@ -22,9 +22,9 @@ git clone https://github.com/sarosh-quraishi/upsquared-board-demo
 ### Install OpenVINO
 Setup OpenVINO on your machine, choose your OS on [this page](https://software.intel.com/en-us/openvino-toolkit/choose-download), follow the instruction to download and install it.
 
-### install miniconda and start an environment with
+### download and install miniconda from https://docs.conda.io/en/latest/miniconda.html and start an environment with
 '''
-conda create env -n py35 python=3.5
+conda create -n py35 python=3.5
 '''
 
 ### Install required libraries
